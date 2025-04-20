@@ -42,22 +42,6 @@ The **California Sales Dashboard** is a comprehensive Power BI report that offer
 
 ---
 
-## 🗂️ File Structure
-
-```
-📁 california_sales/
-│
-├── california_sales.pbix           # Main Power BI report file
-├── [Extracted Contents for Analysis]
-│   ├── Report                      # JSON layout for visuals
-│   ├── DataModel                   # Data and relationships
-│   ├── DAXQueries                  # Custom DAX calculations
-│   └── Metadata, Settings, etc.    # Miscellaneous settings
-└── README.md                       # Project documentation
-```
-
----
-
 ## 🚀 How to Use
 
 1. Download and install [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
